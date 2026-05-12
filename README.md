@@ -114,23 +114,23 @@ plt.show()
 ```
 
 OUTPUT:
-SIMULATED ARMA(1,1) PROCESS:
-<img width="1307" height="662" alt="image" src="https://github.com/user-attachments/assets/2188fbb6-83ba-4b36-8932-a41e7d20d4a6" />
+SIMULATED ARMA(1,1) PROCESS
+
 
 Partial Autocorrelation:
-<img width="1432" height="724" alt="image" src="https://github.com/user-attachments/assets/1a0d6e32-8f31-4a8c-8ec1-d245dfe2afdb" />
+
 
 Autocorrelation
-<img width="1297" height="663" alt="image" src="https://github.com/user-attachments/assets/20e69c26-7887-447a-ab0f-bbde79865b1b" />
+
 
 SIMULATED ARMA(2,2) PROCESS:
-<img width="1261" height="658" alt="image" src="https://github.com/user-attachments/assets/66896385-7472-4eb3-af34-9e93ee297f50" />
+
 
 Partial Autocorrelation
-<img width="1269" height="672" alt="image" src="https://github.com/user-attachments/assets/bd4b01ce-f3e5-42c3-acca-664a13eb3bd1" />
+
 
 Autocorrelation
-<img width="1237" height="646" alt="image" src="https://github.com/user-attachments/assets/3ecd91d5-3869-4410-88c1-172313566113" />
+<img width="1306" height="671" alt="image" src="https://github.com/user-attachments/assets/48007914-11c1-4421-8c2d-8a4c0d8775bb" />
 
 
 RESULT:
