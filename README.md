@@ -1,11 +1,13 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 30/04/2026
+## Date: 09/05/2026
+### Name: Vignesh M
+### Reg No: 212223240176
 
-
-
-### AIM:
+## AIM:
 To implement ARMA model in python.
-### ALGORITHM:
+
+## ALGORITHM:
+
 1. Import necessary libraries.
 2. Set up matplotlib settings for figure size.
 3. Define an ARMA(1,1) process with coefficients ar1 and ma1, and generate a sample of 1000
@@ -22,9 +24,9 @@ axis limits.
 
 6. Display the autocorrelation and partial autocorrelation plots for the ARMA(2,2) process using
 plot_acf and plot_pacf.
-### PROGRAM:
 
-``
+## PROGRAM:
+```py
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -113,25 +115,24 @@ plt.title('PACF of Simulated ARMA(2,2)')
 plt.show()
 ```
 
-OUTPUT:
-SIMULATED ARMA(1,1) PROCESS
+## OUTPUT:
+#### SIMULATED ARMA(1,1) PROCESS:
+<img width="1184" height="590" alt="image" src="https://github.com/user-attachments/assets/9c1e7263-fb56-4ea3-a31c-65f3ea246ae3" />
 
+#### Partial Autocorrelation
+<img width="1162" height="598" alt="image" src="https://github.com/user-attachments/assets/671fa960-fb64-4f12-a5de-1813a5f116ad" />
 
-Partial Autocorrelation:
+#### Autocorrelation
+<img width="1175" height="591" alt="image" src="https://github.com/user-attachments/assets/fbafdf1a-0d52-4cf1-bb3b-ab218cf863f7" />
 
+#### SIMULATED ARMA(2,2) PROCESS:
+<img width="1139" height="589" alt="image" src="https://github.com/user-attachments/assets/74ce3496-ff04-4231-82e8-b2411a6a8744" />
 
-Autocorrelation
+#### Partial Autocorrelation
+<img width="1206" height="600" alt="image" src="https://github.com/user-attachments/assets/be67608f-5346-45d5-b17a-4ed53111b6c8" />
 
+#### Autocorrelation
+<img width="1172" height="583" alt="image" src="https://github.com/user-attachments/assets/356999e3-e91e-481e-ad59-06f1c551f3a0" />
 
-SIMULATED ARMA(2,2) PROCESS:
-
-
-Partial Autocorrelation
-
-
-Autocorrelation
-<img width="1306" height="671" alt="image" src="https://github.com/user-attachments/assets/48007914-11c1-4421-8c2d-8a4c0d8775bb" />
-
-
-RESULT:
+## RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
